@@ -39,4 +39,4 @@ Agustin Ovando Saenz
 Sebastian Jara Palomino  
 Juan de Dios Larrea  
 Gonzalo Soto Ulloa  
-Constanza Corday
+Constanza Corday Loayza
