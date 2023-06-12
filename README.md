@@ -38,5 +38,5 @@ La base de datos se encuentra en la nube vía mongoDB Atlas
 Agustin Ovando Saenz  
 Sebastian Jara Palomino  
 Juan de Dios Larrea  
-Gonzalo Soto Ulloa
+Gonzalo Soto Ulloa  
 Constanza Corday
